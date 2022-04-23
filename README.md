@@ -2,8 +2,8 @@
 
 This is the main repository structure with live demo for all of the projects and code done.
 
-
-|  S.No.  | Project | Live Demo |
+|  S.No.  | Project    | Live Demo  |
+|   :-:   |----------- |----------- |
 |1|[Blurry Loading]()|[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Blurry Loading/)|
 |2|[Bootstrap UI]()|[See Live]((https://rajanand-132.github.io/Frontend-Development/Projects/bootstrap_UI/)|
 |3|[Circle Packing]()|[See Live]((https://rajanand-132.github.io/Frontend-Development/Projects/Circle Packing/)|
