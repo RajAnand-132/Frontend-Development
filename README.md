@@ -5,8 +5,8 @@ This is the main repository structure with live demo for all of the projects and
 
 |  S.No.  | Project | Live Demo |
 |   :-:   | ------- | --------- |
-| 1 | [Portfolio](https://github.com/RajAnand-132/Frontend-Development/tree/master/Portfolio)      | [See Live]()               |
-| 2 | [Projects](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects)        | [See Live](https://rajanand-132.github.io/Frontend-Development/Projects/tindog/index.html)               |
+| 1 | [Portfolio]()      | [See Live]()               |
+| 2 | [Project 1]()        | [See Live]()               |
 | 3 | [Sample Websites]()             | [Live Demo]()
 
 ## Acknowledgements
