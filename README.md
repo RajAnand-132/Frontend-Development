@@ -6,7 +6,7 @@ This is the main repository structure with live demo for all of the projects and
 |  :-:  |---------------|-----------------------------------------------------------------------------------------------------|
 |1|[Blurry Loading](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Blurry%20Loading)   |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Blurry%20Loading/)|
 |2|[Bootstrap UI](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/bootstrap_UI)     |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/bootstrap_UI/)|
-|3|[Infinite Scroll]()   |[See Live]()|
+|3|[Infinite Scroll]()   |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Infinite%20scroll%20posts/)|
 |4|[Dad Jokes](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Dad%20Jokes)        |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Dad%20Jokes/)|
 |5|[Drink Water](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Drink%20Water)      |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Drink%20Water/)|
 |6|[Hovereboard](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Hoverboard)      |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Hoverboard/)|
