@@ -23,7 +23,7 @@ console.log(y);
 
 x=6; //redefined the value for x
 console.log(x)
-x="rohan"; //redefined the value for x
+x="Raj"; //redefined the value for x
 console.log(x)
 
 let a=5;
@@ -35,7 +35,7 @@ console.log(c)
 {
 // code block
 console.log("hey there")
-    let var2 = "rohan dutt"
+    let var2 = "Raj Anand"
     console.log(var2)
 
     // let keyword is block scoped
@@ -50,15 +50,15 @@ console.log("2")
 
 
 // Variables
-let varx = "rohan";
+let varx = "Raj";
 let vary = 2.5;
 
 var abc ;
 var abc2 = 3;
 abc2=6;
-const abc3 ="rohan";
+const abc3 ="Raj";
 
-// abc3 = "dutt"; //cannot define a const variable
+// abc3 = "Anand"; //cannot define a const variable
 
 let last, Last;
 last=2;

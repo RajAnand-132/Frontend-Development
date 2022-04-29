@@ -27,8 +27,8 @@ console.log(car["company"])
 
 
 const person = {
-    firstName: "Rohan",
-    lastName: "Dutt",
+    firstName: "Raj",
+    lastName: "Anand",
     age: 22,
     fullName: function(){
         return this.firstName+" "+this.lastName

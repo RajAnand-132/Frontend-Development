@@ -49,7 +49,7 @@ console.log(cars);
 cars[1] = "XUV 500"
 console.log(cars)
 const junkData = [
-  "Rohan",
+  "Raj",
   18,
   ["Volvo", 25, 36, true],
   { firstName: "hey", lastName: "there" },
@@ -57,8 +57,8 @@ const junkData = [
 // 0 indexed
 
 const person = {
-  firstName: "Rohan",
-  lastName: "Dutt",
+  firstName: "Raj",
+  lastName: "Anand",
   age: 18,
   phoneNumbers: ["9876543210", "9654321098"],
   address: {
@@ -74,7 +74,7 @@ console.log(person)
 let abc4;
 var abc5;
 console.log(typeof(abc4),abc4)
-let abc6="rohan";
+let abc6="Raj";
 abc6=undefined;
 console.log(abc6)
 
