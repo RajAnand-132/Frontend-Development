@@ -16,7 +16,11 @@ This is the main repository structure with live demo for all of the projects and
 |10|[Tindog](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/tindog)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/tindog/)|
 |11|[Quiz](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/quiz)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/quiz/)|
 |12|[Stop Watch](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/stopwatch)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/stopwatch/)|
+<<<<<<< HEAD
 |13|[Weather App API](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/stopwatch)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Weather%20App%20API/)
+=======
+|13|[Weather App API](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Weather%20App%20API)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/stopwatch/)
+>>>>>>> f2802065091eaf4d6c666bf62c453e2ed5ff421b
 
 
 ## Acknowledgements
