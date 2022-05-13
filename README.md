@@ -17,7 +17,8 @@ This is the main repository structure with live demo for all of the projects and
 |11|[Quiz](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/quiz)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/quiz/)|
 |12|[Stop Watch](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/stopwatch)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/stopwatch/)|
 |13|[Weather App API](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Weather%20App%20API)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Weather%20App%20API/)|
-|14|[Drag & Drop](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Weather%20App%20API)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Weather%20App%20API/)
+|14|[Drag & Drop](https://github.com/RajAnand-132/Frontend-Development/tree/master/Frontend%20Development%20Practiced/23.%2006-05-2022/Drag-Drop)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Frontend%20Development%20Practiced/23.%2006-05-2022/Drag-Drop/)|
+|15|[Running Text](https://github.com/RajAnand-132/Frontend-Development/tree/master/Frontend%20Development%20Practiced/23.%2006-05-2022/running_text)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Frontend%20Development%20Practiced/23.%2006-05-2022/running_text/)
 
 
 ## Acknowledgements
