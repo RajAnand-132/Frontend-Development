@@ -18,9 +18,10 @@ This is the main repository structure with live demo for all of the projects and
 |12|[Stop Watch](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/stopwatch)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/stopwatch/)|
 |13|[Weather App API](https://github.com/RajAnand-132/Frontend-Development/tree/master/Projects/Weather%20App%20API)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Projects/Weather%20App%20API/)|
 |14|[Drag & Drop](https://github.com/RajAnand-132/Frontend-Development/tree/master/Frontend%20Development%20Practiced/23.%2006-05-2022/Drag-Drop)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Frontend%20Development%20Practiced/23.%2006-05-2022/Drag-Drop/)|
-|15|[Running Text](https://github.com/RajAnand-132/Frontend-Development/tree/master/Frontend%20Development%20Practiced/23.%2006-05-2022/running_text)          |[See Live](https://rajanand-132.github.io/Frontend-Development/Frontend%20Development%20Practiced/23.%2006-05-2022/running_text/)
-
+|15|[Quote Generation]()          |[See Live]()|
+|16|[Alarm Clock]()          |[See Live]()|
+|17|[Sorting Visualizer]()          |[See Live]()
 
 ## Acknowledgements
 
-The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way to build and learn web technologies like HTML, CSS, Bootstrap, Javascript, React and Redux.
+The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners as well. This repo is just a way to build and learn web technologies like HTML, CSS, Bootstrap, Javascript.
