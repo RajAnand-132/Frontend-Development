@@ -24,4 +24,4 @@ This is the main repository structure with live demo for all of the projects and
 
 ## Acknowledgements
 
-The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners as well. This repo is just a way to build and learn web technologies like HTML, CSS, Bootstrap, Javascript.
+The projects discussed in this repo are refered from various sources and the rights to them belongs to their respective owners as well. This repo is just a way to build and learn web technologies like HTML, CSS, Bootstrap, Javascript.
