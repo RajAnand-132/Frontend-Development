@@ -1,6 +1,6 @@
 ## Topics CSS
 
-- Practice [Stats Table](https://AnandRaj0302.github.io/accio-batch11/dec7th/stats/)
+- Practice [Stats Table](https://AnandRaj0302.github.io/Task-batch11/dec7th/stats/)
 
 - Importing google fonts
 - Lists 
