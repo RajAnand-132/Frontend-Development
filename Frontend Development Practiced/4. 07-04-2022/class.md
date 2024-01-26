@@ -1,7 +1,7 @@
 ## Intro to CSS - Cascading Style Sheets
 
-What and Why
-Different options - how to use it - External, Internal, Inline
+What and Why ?
+Different options ?- how to use it - External, Internal, Inline
 
 ### Selectors
 1. Simple Selectors
@@ -16,7 +16,7 @@ Different options - how to use it - External, Internal, Inline
  - General Sibling(~)
 
 3. Pseudo-classes - Define a special state of an element
- - E.g. div:hover, a:visited
+ - E.g. div:hover(when you take cursor to any elemet), a:visited(onclick)
 
 4. Pseudo-elements - Used to style specified part of an element
  - ::first-letter and ::first-line

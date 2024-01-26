@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Example 1: ::first-letter and ::first-line */
+    p::first-letter {
+      color: red;
+      font-size: 150%;
+    }
+
+    p::first-line {
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    /* Example 2: ::before and ::after */
+    h2::before {
+      content: "🌟 ";
+    }
+
+    h2::after {
+      content: " 🌟";
+    }
+
+    /* Example 3: ::marker */
+    li::marker {
+      color: rgb(15, 202, 58);
+      content: "✨ @";
+    }
+
+    /* Example 4: ::selection */
+    div::selection {
+      background-color: orange;
+      color: white;
+    }
+  </style>
+  <title>Pseudo-element Examples</title>
+</head>
+<body>
+
+  <!-- Example 1: ::first-letter and ::first-line -->
+  <p>This is a paragraph of text. Hover over me!</p>
+
+  <br>
+
+  <!-- Example 2: ::before and ::after -->
+  <h2>Title with stars</h2>
+
+  <br>
+
+  <!-- Example 3: ::marker -->
+  <ul>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
+  </ul>
+
+  <br>
+
+  <!-- Example 4: ::selection -->
+  <div>Select me to see ::selection</div>
+
+</body>
+</html>
