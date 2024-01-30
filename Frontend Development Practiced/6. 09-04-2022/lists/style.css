@@ -1,13 +1,13 @@
 .ul-1{
     list-style-type: square;
-    list-style-position: inside;
+    list-style-position: outside;
 
 }
 .ul-2{
-    list-style-type: upper-roman;
-    list-style: inside lower-roman;
+    list-style-type: decimal;
+    /* list-style: inside lower-roman; */
 }
 
 button{
-    cursor: pointer;
+    cursor:not-allowed;
 }

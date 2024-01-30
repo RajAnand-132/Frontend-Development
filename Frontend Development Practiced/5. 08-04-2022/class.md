@@ -66,9 +66,3 @@ Items within a flex container can be flex items, and the container becomes a fle
 8. Grid:
 A two-dimensional layout system for the web.
 Divides a page into columns and rows, allowing items to be placed and sized according to those divisions.
-
-
-9. z-index:
-Determines the stacking order of positioned elements.
-Higher z-index values bring elements closer to the foreground.
-Understanding these concepts is crucial for effective web design and development, allowing for precise control and layout of webpage elements.
