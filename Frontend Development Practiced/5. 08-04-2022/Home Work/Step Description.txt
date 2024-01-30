@@ -1,56 +1,75 @@
 HTML Structure Guide:
+
 Step 1: Initial Setup:
 Create a new project folder for your webpage and name it accordingly.
 Inside the folder, create two files: index.html for HTML and style.css for CSS.
 Open index.html in a code editor to start building the HTML structure.
+
 Step 2: Box Model Section:
 Create a section for the Box Model demonstration.
 Use an <h3> tag for a subheading and a <div> with the class "box-model-example" to contain a paragraph.
+
 Step 3: Text, Font, Icons, Links Section:
 Add another section for the Text, Font, Icons, Links demonstration.
 Use an <h3> tag for a subheading and a <div> with the class "text-example" to contain a paragraph, a span with the class "icon" for an emoji, and a link (<a>) with the class "link."
+
 Step 4: Tables Section:
 Include a section for the Tables demonstration.
 Use an <h3> tag for a subheading and create a <table> with the class "data-table."
 Inside the table, define table headers (<th>) and rows (<tr>) with data cells (<td>).
+
 Step 5: Height, Width Section:
 Create a section for the Height, Width demonstration.
 Use an <h3> tag for a subheading and add a <div> with the class "size-example" to showcase an element with a specified height and width.
+
 Step 6: Box Sizing (Border Box) Section:
 Add a section for the Box Sizing (Border Box) demonstration.
 Use an <h3> tag for a subheading and create a <div> with the class "border-box-example" to showcase an element using the box-sizing: border-box property.
+
 Step 7: Positioning Section:
 Include a section for the Positioning demonstration.
 Use an <h3> tag for a subheading and create a <div> with the class "positioning-example" to showcase an element with relative positioning.
+
 Step 8: Flex Section:
 Add a section for the Flex demonstration.
 Use an <h3> tag for a subheading and create a <div> with the class "flex-container" to showcase a flex container with flex items.
+
 Step 9: Grid Section:
 Create a section for the Grid demonstration.
 Use an <h3> tag for a subheading and create a <div> with the class "grid-container" to showcase a grid container with grid items.
+
 Step 10: Final Touch:
 Add any final touches or additional content to enhance the overall structure of the webpage.
 Experiment with different elements, headings, and text to create a balanced and well-organized layout.
 -------------------------------------------------------------------------------------------------------
 
 CSS Styling Guide:
+
 Step 1: Reset Default Styles:
 Set a margin of 30px on all sides and a background color of light blue (#ebf5f4) for a clean starting point.
+
 Step 2: Box Model Styling:
 Inside the box model section, create a box with padding, a 2px solid blue border, and margin to demonstrate the box model properties.
+
 Step 3: Text, Font, Icons, Links Styling:
 Style the text example area with a black solid border, set the font family to Arial, font size to 16px, and text color to dark gray (#333).
 Add an icon with a font size of 24px and a link with a blue color (#007bff) and no text decoration.
+
 Step 4: Tables Styling:
 Apply styles to the data table by collapsing borders, setting a width of 100%, and adding padding to table cells.
+
 Step 5: Height, Width Styling:
 Create an example with a fixed height and width, a light green background, and a margin for spacing.
+
 Step 6: Box Sizing (Border Box) Styling:
 Illustrate the use of box-sizing: border-box with a box that maintains its specified width even with padding and borders.
+
 Step 7: Positioning Styling:
 Position an example with a relative position, left offset, a width of 82%, and a light purple background.
+
 Step 8: Flex Styling:
 Showcase a flex container with evenly spaced flex items, each with a border and padding.
+
 Step 9: Grid Styling:
 Create a grid container with three columns, 10px gap, and grid items with borders and padding.
 Final Touch:
