@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Loved+by+the+King&family=Poppins:wght@200;600&display=swap');
 body{
     padding: 1.25em;
-    /* font-family: "Poppins","Verdana",sans-serif; */
-    font-family: 'Loved by the King', cursive;
+    font-family: "Poppins","Verdana",sans-serif;
+    /* font-family: 'Loved by the King', cursive; */
 }
 table{
     width: 100%;

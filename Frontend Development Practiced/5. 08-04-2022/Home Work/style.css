@@ -1,0 +1,96 @@
+/* style.css */
+*{
+    margin: 30px 30px;
+    background-color: #ebf5f4;
+}
+/* 1. Box Model */
+.box-model-example {
+    padding: 10px;
+    border: 2px solid #007bff;
+    margin: 10px;
+}
+
+/* 2. Text, Font, Icons, Links */
+.text-example {
+    border: 1px  solid black;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+.icon {
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+.link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* 3. Tables */
+.data-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.data-table th, .data-table td {
+    border: 1px solid #333;
+    padding: 8px;
+}
+
+/* 4. Height, Width */
+.size-example {
+    height: 100px;
+    width: 200px;
+    background-color: #d1f8f7;
+    margin-top: 20px;
+}
+
+/* 5. Box Sizing (Border Box) */
+.border-box-example {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid #6007d4;
+    margin-top: 20px;
+}
+
+/* 6. Positioning */
+.positioning-example {
+    position: relative;
+    left: 50px;
+    width: 82%;
+    background-color: rgba(146, 112, 125, 0.2);
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* 7. Flex */
+.flex-container {
+    background-color:#d1f8f7;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.flex-item {
+    border: 2px solid #007bff;
+    padding: 10px;
+}
+
+/* 8. Grid */
+.grid-container {
+    background-color:#d1f8f7;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.grid-item {
+    border: 2px solid #007bff;
+    padding: 10px;
+}
