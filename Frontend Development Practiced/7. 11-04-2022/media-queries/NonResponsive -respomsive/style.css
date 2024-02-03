@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f0f0;
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* To make a webpage responsive we use media querry */
+@media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+    .content {
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+}
