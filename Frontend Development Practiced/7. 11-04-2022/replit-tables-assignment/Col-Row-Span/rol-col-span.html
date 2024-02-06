@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .center {
+margin: 0 auto;
+}
+.text-center  {
+text-align: center;
+}
+h2 {
+background: #f5f5f5;
+color: #e5e5e5;
+padding: 15px;
+}
+hr {
+border-top: 0 solid #ddd;
+}
+.m-b-5 {
+margin-bottom: 5em;
+}
+  </style>
+  <title>Rowspan and Colspan Example</title>
+</head>
+<body>
+
+    <h2 class="text-center">Rowspan Example</h2>
+    <table border="10" class="center m-b-5 ">
+      <tr>
+        <td rowspan="3">Web Programming</td>
+        <td>HTML</td>
+      </tr>
+      <tr>
+        <td>CSS</td>
+      </tr>
+      <tr style="width:100%;height:100%;background-color: aqua;">
+        <td>Bootstrap</td>
+      </tr>
+      
+      <tr>
+        <td rowspan="4">Graphic Design</td>
+        <td>Photoshop</td>
+      </tr>
+      <tr>
+        <td>Illustrator</td>
+      </tr>
+      <tr>
+        <td>Indesign</td>
+      </tr>
+      <tr>
+        <td>Coreldraw</td>
+      </tr>
+      
+      <tr>
+        <td rowspan="4">Digital Marketing</td>
+        <td>SEO</td>
+      </tr>
+      <tr>
+        <td>SEM</td>
+      </tr>
+      <tr>
+        <td>SMM</td>
+      </tr>
+      <tr>
+        <td>Email Marketing</td>
+      </tr>
+    </table>
+    
+    <h2 class="text-center">Colspan Example</h2>
+    
+    <table border="10" class="text-center center">
+      <tr style="background-color: rgb(107, 79, 218);">
+        <td colspan="4">.Net</td>
+        <td colspan="4">JAVA</td>
+        <td>PYTHON</td>
+      </tr>
+      <tr>
+        <td>One</td>
+        <td>Two</td>
+        <td>One-1</td>
+        <td>Two-2</td>
+    
+        <td>1-One</td>
+        <td>2-Two</td>
+        <td>color-1</td>
+        <td>Java-Kio
+          <table border="1">
+            <tr><td rowspan="3">JK-1</td></tr>
+            <tr>
+              <td>kio-1</td><td>kio-2</td><td>kio-3</td>
+            </tr>
+            <tr>
+              <td>sio-1</td><td>sio-2</td><td>sio-3</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+</body>
+</html>

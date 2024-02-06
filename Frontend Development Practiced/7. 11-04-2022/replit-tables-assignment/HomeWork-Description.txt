@@ -1,0 +1,25 @@
+Change the colour of each table data bacground with the given colour schema
+    .color1 { background-color: rgb(107, 79, 218); }
+    .color2 { background-color: rgb(107, 79, 229); }
+    .color3 { background-color: rgb(107, 79, 230); }
+    .color4 { background-color: rgb(107, 79, 241); }
+    .color5 { background-color: rgb(107, 79, 252); }
+    .color6 { background-color: rgb(107, 79, 263); }
+    .color7 { background-color: rgb(107, 79, 274); }
+    .color8 { background-color: rgb(107, 79, 285); }
+    .color9 { background-color: rgb(107, 79, 296); }
+    .color10 { background-color: rgb(107, 79, 227); }
+    .color11 { background-color: rgb(107, 79, 238); }
+    .color12 { background-color: rgb(107, 79, 249); }
+    .color13 { background-color: rgb(107, 79, 250); }
+    .color14 { background-color: rgb(107, 79, 261); }
+    .color15 { background-color: rgb(107, 79, 282); }
+    .color16 { background-color: rgb(107, 79, 213); }
+    .color17 { background-color: rgb(107, 79, 294); }
+    .color18 { background-color: rgb(107, 79, 225); }
+    .color19 { background-color: rgb(107, 79, 206); }
+    .color20 { background-color: rgb(107, 79, 297); }
+    .....
+    .....
+    .....
+and try to write the serial number in each data as a row number.
