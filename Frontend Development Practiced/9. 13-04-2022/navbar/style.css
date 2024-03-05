@@ -22,13 +22,14 @@ li a{
 }
 
 li a:hover:not(.active){
+    /* Except active, change the background colour of all the divs */
     background-color: #111;
 }
 li:nth-of-type(4) a:hover{
     background-color: green;
 }
 .active{
-    background-color: #04AA6D;
+    background-color: #181686;
 }
 
 @media only screen and (min-width:800px){
